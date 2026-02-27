@@ -1,4 +1,4 @@
-# 📊 Task 04 – Business Insights Report (EDA)
+# Task 04 – Business Insights Report (EDA)
 
 ## 🔹 Objective
 The goal of this task was to perform Exploratory Data Analysis (EDA) on a marketing campaign dataset to understand customer behavior and identify which marketing channels should receive more budget based on performance and engagement.
