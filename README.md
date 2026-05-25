@@ -1,40 +1,31 @@
-# Task 04 – Business Insights Report (EDA)
+# 📣 Marketing Campaign Analysis — Exploratory Data Analysis (EDA)
 
-## 🔹 Objective
-The goal of this task was to perform Exploratory Data Analysis (EDA) on a marketing campaign dataset to understand customer behavior and identify which marketing channels should receive more budget based on performance and engagement.
+An end-to-end EDA project on a marketing campaign dataset to understand customer purchasing behavior and recommend budget allocation across channels.
 
----
+## 🎯 Objective
+Perform Exploratory Data Analysis on a marketing campaign dataset to identify customer segments, analyze channel performance, and provide actionable business recommendations.
 
-## 🔹 Work Performed
-- Loaded the marketing campaign dataset in Google Colab (Python environment)
-- Cleaned and prepared the dataset
-- Checked missing values and corrected data types
-- Created a new feature **Age** using the Year_Birth column
-- Analyzed customer campaign response
-- Analyzed purchases by different channels (Web, Catalog, Store)
-- Studied the relationship between Income and Spending
+## 🛠️ Tools & Technologies
+- Python, Pandas, Matplotlib, Seaborn, Google Colab
+
+## ✅ Work Performed
+- Loaded and explored the marketing dataset in Google Colab
+- Cleaned data and handled missing values & data type corrections
+- Engineered a new `Age` feature from the `Year_Birth` column
+- Analyzed customer responses to campaigns
+- Studied purchases across Web, Catalog, and Store channels
+- Explored the relationship between Income and Spending
 - Visualized customer age distribution
-- Interpreted business insights from the data
-- Prepared a one-page business report with recommendations
+- Prepared a one-page business insights report with recommendations
 
----
+## 🔑 Key Insights
+- Majority of customers did not respond to the marketing campaign
+- Store purchases significantly outperform web and catalog channels
+- Higher-income customers show notably higher spending patterns
+- Core customer segment: ages **40–60 years**
 
-## 🔹 Key Insights
-- Most customers did not respond to the marketing campaign
-- Store purchases are higher compared to web and catalog purchases
-- Higher income customers tend to spend more money
-- Customers aged between 40–60 years form the major customer group
+## 📋 Business Recommendation
+Focus marketing budget on **high-income, middle-aged customers** and prioritize **in-store** and **personalized digital campaigns** for maximum ROI.
 
----
-
-## 🔹 Tools & Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Google Colab
-
----
-
-## 🔹 Outcome
-The analysis helped in understanding customer purchasing behavior and identifying the target audience. Based on the insights, the company can improve ROI by focusing marketing efforts on high-income middle-aged customers and prioritizing store and personalized digital campaigns.
+## 💡 Key Skills Demonstrated
+`EDA` `Feature Engineering` `Data Visualization` `Customer Segmentation` `Business Insights` `Python` `Pandas`
